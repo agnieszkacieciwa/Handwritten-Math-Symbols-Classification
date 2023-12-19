@@ -30,7 +30,7 @@ The dataset used in this project is sourced from Kaggle. You can find the datase
 3. Install Dependencies:
    ```bash
    pip install -r requirements.txt
-  ``
+
 ### Usage
 1. Organize Dataset: Update the `dataset_dir` variable in code.py with the path to your directory.
   
@@ -43,5 +43,7 @@ The dataset used in this project is sourced from Kaggle. You can find the datase
 The trained model achieved the following results on the test set:
 
 **Test Loss: 0.2166**
+
 **Test Accuracy: 93.15%**
+
 **Test AUC: 0.9960**
