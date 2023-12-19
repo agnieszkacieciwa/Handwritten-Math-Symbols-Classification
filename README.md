@@ -32,7 +32,8 @@ The dataset used in this project is sourced from Kaggle. You can find the datase
    pip install -r requirements.txt
 
 ### Usage
-1. Organize Dataset: Update the `dataset_dir` variable in code.py with the path to your directory.
+1. Organize Dataset:
+   Update the `dataset_dir` variable in code.py with the path to your directory.
   
 2. Run the Code:
    ```bash
