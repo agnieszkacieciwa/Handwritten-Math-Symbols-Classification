@@ -33,9 +33,10 @@ The dataset used in this project is sourced from Kaggle. You can find the datase
 
 ### Usage
 1. Organize Dataset:
-   Update the `dataset_dir` variable in code.py with the path to your directory.
+
+    Update the `dataset_dir` variable in code.py with the path to your directory.
   
-2. Run the Code:
+3. Run the Code:
    ```bash
    python code.py
    ```
