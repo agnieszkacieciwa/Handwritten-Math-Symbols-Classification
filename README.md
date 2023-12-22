@@ -1,6 +1,5 @@
 # Handwritten Math Symbols Classification
 
-## Overview
 This project implements a convolutional neural network (CNN) using TensorFlow and Keras to classify handwritten math symbols. The model is trained to recognize symbols representing digits (0-9) and basic arithmetic operations (+, -, *, /). 
 
 ## Getting Started
